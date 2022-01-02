@@ -1,2 +1,1 @@
-# bluebridge
-python algorithm
+# 算法练习仓库
